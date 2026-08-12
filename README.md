@@ -102,26 +102,12 @@ Frontend
 ├── JavaScript
 └── Bootstrap
 
-DevOps & Cloud
+Cloud & DevOps
 ├── Git
 ├── GitHub
 ├── Docker
 └── Google Cloud Platform
 ```
-
----
-
-## 📌 Featured Project
-
-### 🚗 Estética Pôr do Sol
-
-A web application developed to manage a car wash business.
-
-The project includes customer, vehicle, service and appointment management, with a complete backend connected to a relational database.
-
-**Technologies:**
-
-`C#` `ASP.NET Core MVC` `Entity Framework Core` `MySQL` `Bootstrap` `Docker` `Google Cloud`
 
 ---
 
@@ -143,40 +129,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMak&them
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=DaviMak&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/DaviMak/DaviMak/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/DaviMak/DaviMak/output/github-contribution-grid-snake.svg"
-/>
-
 <img
-alt="GitHub contribution grid snake animation"
 src="https://raw.githubusercontent.com/DaviMak/DaviMak/output/github-contribution-grid-snake.svg"
+alt="GitHub contribution grid snake animation"
 />
-
-</picture>
 
 </div>
 
@@ -218,7 +178,7 @@ Software Engineering
 * ☁️ Cloud deployment
 * 🐳 Containerization with Docker
 * 🗄️ Database design and optimization
-* 📚 Best practices for scalable applications
+* 📚 Software engineering best practices
 
 ---
 
@@ -228,10 +188,6 @@ Software Engineering
 
 <a href="https://github.com/DaviMak">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/DaviMak">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
