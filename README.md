@@ -81,48 +81,20 @@ I'm constantly learning and improving my skills through academic projects, perso
 
 ---
 
-## 🚀 What I Work With
-
-```text
-Backend
-├── C#
-├── .NET
-├── ASP.NET Core
-├── Entity Framework Core
-├── Dapper
-└── REST APIs
-
-Database
-├── MySQL
-└── SQL
-
-Frontend
-├── HTML
-├── CSS
-├── JavaScript
-└── Bootstrap
-
-Cloud & DevOps
-├── Git
-├── GitHub
-├── Docker
-└── Google Cloud Platform
-```
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=DaviMak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+src="./profile/stats.svg"
+alt="DaviMak GitHub Statistics"
 />
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMak&theme=tokyonight&layout=compact&langs_count=8&hide_border=true"
+src="./profile/top-langs.svg"
+alt="DaviMak Top Languages"
 />
 
 </div>
@@ -198,6 +170,9 @@ Software Engineering
 
 ### 💻 Code. Learn. Build. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=DaviMak&style=for-the-badge&color=00ADD8" alt="Profile views"/>
+<img
+src="https://komarev.com/ghpvc/?username=DaviMak&style=for-the-badge&color=00ADD8"
+alt="Profile views"
+/>
 
 </div>
